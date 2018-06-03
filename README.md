@@ -42,3 +42,15 @@ The Firebase Private Key, that can found in your Account Service JSON, downloade
 
 The Firebase Realtime Database URL.  
 Ensure the last character is NOT a slash!
+
+### `UBER_API_ACCESS_TOKEN`
+- **Mandatory**: Yes.
+- **Type**: `string`
+
+The Token to access Uber API.
+
+### `UBER_API_URL`
+- **Mandatory**: Yes.
+- **Type**: `string`
+
+The Uber API URL.
