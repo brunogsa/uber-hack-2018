@@ -1,0 +1,204 @@
+{
+  "proposals" : {
+    "879f12bf-d59e-4c7d-977d-c948e8904293" : {
+      "driver" : {
+        "name" : "John Snow"
+      },
+      "id" : "879f12bf-d59e-4c7d-977d-c948e8904293",
+      "routes" : {
+        "going" : [
+          {
+            "action" : "pickup",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3jObPTgDmIV86m3CL"
+          },
+          {
+            "action" : "pickup",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3lrBhE2zWVuJy51rE"
+          },
+          {
+            "action" : "pickup",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3lyd4XI_0SO4p5HTU"
+          },
+          {
+            "action" : "pickup",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3m-uHITv1xF2x1DDI"
+          },
+          {
+            "action" : "dropoff",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3jObPTgDmIV86m3CL"
+          },
+          {
+            "action" : "dropoff",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3lrBhE2zWVuJy51rE"
+          },
+          {
+            "action" : "dropoff",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3lyd4XI_0SO4p5HTU"
+          },
+          {
+            "action" : "dropoff",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3m-uHITv1xF2x1DDI"
+          }
+        ],
+        "returning" : [
+          {
+            "action" : "pickup",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3jObPTgDmIV86m3CL"
+          },
+          {
+            "action" : "pickup",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3lrBhE2zWVuJy51rE"
+          },
+          {
+            "action" : "pickup",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3lyd4XI_0SO4p5HTU"
+          },
+          {
+            "action" : "pickup",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3m-uHITv1xF2x1DDI"
+          },
+          {
+            "action" : "dropoff",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3jObPTgDmIV86m3CL"
+          },
+          {
+            "action" : "dropoff",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3lrBhE2zWVuJy51rE"
+          },
+          {
+            "action" : "dropoff",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3lyd4XI_0SO4p5HTU"
+          },
+          {
+            "action" : "dropoff",
+            "arriveAt" : "2018-06-03T08:18:06.838Z",
+            "from" : 5.02402,
+            "price" : "R$3-5",
+            "to" : 5.02402,
+            "userId" : "-LE3m-uHITv1xF2x1DDI"
+          }
+        ]
+      },
+      "users" : [ "-LE3jObPTgDmIV86m3CL", "-LE3lrBhE2zWVuJy51rE", "-LE3lyd4XI_0SO4p5HTU", "-LE3m-uHITv1xF2x1DDI" ],
+      "usersToApprove" : [ "-LE3jObPTgDmIV86m3CL", "-LE3lrBhE2zWVuJy51rE", "-LE3lyd4XI_0SO4p5HTU", "-LE3m-uHITv1xF2x1DDI" ]
+    }
+  },
+  "users" : {
+    "-LE3jObPTgDmIV86m3CL" : {
+      "deviceToken" : "03df25c845d460bcdad7802d2vf6fc1dfde97283bf75cc993eb6dca835ea2e2f",
+      "homeLocation" : {
+        "lat" : 5.02402,
+        "lng" : -86.96335
+      },
+      "leaveWorkAt" : "2018-06-03T08:18:06.838Z",
+      "name" : "Bruno",
+      "workLocation" : {
+        "lat" : 13.23376,
+        "lng" : 90.57601
+      },
+      "workStartAt" : "2018-06-03T08:08:06.838Z"
+    },
+    "-LE3lrBhE2zWVuJy51rE" : {
+      "deviceToken" : "03df25c845d460bcdad7802d2vf6fc1dfde97283bf75cc993eb6dca835ea2e2f",
+      "homeLocation" : {
+        "lat" : 5.02402,
+        "lng" : -86.96335
+      },
+      "leaveWorkAt" : "2018-06-03T08:18:06.838Z",
+      "name" : "Luana",
+      "workLocation" : {
+        "lat" : 13.23376,
+        "lng" : 90.57601
+      },
+      "workStartAt" : "2018-06-03T08:08:06.838Z"
+    },
+    "-LE3lyd4XI_0SO4p5HTU" : {
+      "deviceToken" : "03df25c845d460bcdad7802d2vf6fc1dfde97283bf75cc993eb6dca835ea2e2f",
+      "homeLocation" : {
+        "lat" : 5.02402,
+        "lng" : -86.96335
+      },
+      "leaveWorkAt" : "2018-06-03T08:18:06.838Z",
+      "name" : "Danilo",
+      "workLocation" : {
+        "lat" : 13.23376,
+        "lng" : 90.57601
+      },
+      "workStartAt" : "2018-06-03T08:08:06.838Z"
+    },
+    "-LE3m-uHITv1xF2x1DDI" : {
+      "deviceToken" : "03df25c845d460bcdad7802d2vf6fc1dfde97283bf75cc993eb6dca835ea2e2f",
+      "homeLocation" : {
+        "lat" : 5.02402,
+        "lng" : -86.96335
+      },
+      "leaveWorkAt" : "2018-06-03T08:18:06.838Z",
+      "name" : "Amanda",
+      "workLocation" : {
+        "lat" : 13.23376,
+        "lng" : 90.57601
+      },
+      "workStartAt" : "2018-06-03T08:08:06.838Z"
+    }
+  }
+}
