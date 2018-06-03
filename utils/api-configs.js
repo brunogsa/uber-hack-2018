@@ -17,6 +17,9 @@ const configs = {
   firebaseDb: {
     url: process.env.FIREBASE_DATABASE_URL,
   },
+
+  uberAccessToken: process.env.UBER_API_ACCESS_TOKEN,
+  uberApiUrl: process.env.UBER_API_URL,
 };
 
 module.exports = configs;

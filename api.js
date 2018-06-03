@@ -2,7 +2,7 @@ const app = require('./utils/express-app-factory').createApp();
 const PORT = 5000;
 
 const { storeUser, getUser } = require('./services/users');
-const { storeDriver, getDriver } = require('./services/driver');
+const { storeDriver, getDriver } = require('./services/drivers');
 const { getProposal, updateProposal } = require('./services/proposals');
 
 /*
